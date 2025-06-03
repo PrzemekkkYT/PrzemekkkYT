@@ -4,7 +4,7 @@
 - Age: `21`
 - Profession: `IT Technician`
 
-My website (currently only in polish) => https://przemekkk.pl
+My website => https://przemekkk.pl
 
 ## Programming
 
