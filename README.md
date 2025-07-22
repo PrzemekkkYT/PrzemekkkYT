@@ -1,5 +1,5 @@
 ## About me
-- Name : `Przemek`
+- Name : `Przemysław`
 - Nationality: `🇵🇱 Polish`
 - Age: `21`
 - Profession: `IT Technician`
