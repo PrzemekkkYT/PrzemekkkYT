@@ -1,7 +1,7 @@
 ## About me
 - Name : `Przemysław`
 - Nationality: `🇵🇱 Polish`
-- Age: `21`
+- Age: `22`
 - Profession: `IT Technician`
 
 My website => https://przemekkk.pl
