@@ -12,7 +12,7 @@ My website => https://przemekkk.pl
 [![My Skills](https://skillicons.dev/icons?i=cs,python,js,lua,html,css,dart)](https://skillicons.dev)
 
 ### OS and tools
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,blender,visualstudio,vscode,git,obsidian,unity,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,blender,vscode,git,obsidian,unity,sqlite)](https://skillicons.dev)
 
 ## Contact
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/183242057882664961)
